@@ -5,3 +5,5 @@
 [Assignment2](fa2020_assignment2--2-.html)
 
 [Assignment3](fa2020_assignment3.html)
+
+[Assignment4](fa2020_assignment4.html)

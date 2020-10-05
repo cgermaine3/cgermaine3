@@ -15,3 +15,7 @@
 [Assignment7](fa2020_assignment7.html)
 
 [PlotA7](Plot.png)
+
+[Assignment8](fa2020_assignment8.html)
+
+

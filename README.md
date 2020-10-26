@@ -26,3 +26,4 @@
 
 [Assignment12](fa2020_assignment12.html)
 
+[Midtermnotebook](fa2020_midterm.html)

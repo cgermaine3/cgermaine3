@@ -29,3 +29,5 @@
 [Midtermnotebook](fa2020_midterm.html)
 
 [MidtermnPresentation](MTPP.html)
+
+[Assignment13](fa2020_assignment13.html)

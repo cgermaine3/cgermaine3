@@ -1,4 +1,6 @@
-# Statistical Analysis with R
+# Statistical Analysis with R/Python
+
+[Capstone Project: Notebook](capstone.html)
 
 [Assignment1: Markdown](FinalAssignment1.html)  
 
